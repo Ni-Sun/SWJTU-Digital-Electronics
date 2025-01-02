@@ -1,2 +1,4 @@
-# SWJTU-Digital-Electronics
-西南交通大学数电B课设
+## 西南交通大学数电B课设
+
+
+## 设计题目： 出租车计价器
