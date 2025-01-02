@@ -1,0 +1,20 @@
+# Reading D:/App/Quartus/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# OpenFile D:/programme/taximeter/work.mpf
+# Loading project work
+vsim work.tset_taximeter
+# vsim work.tset_taximeter 
+# Start time: 18:04:19 on Dec 11,2023
+# Loading work.tset_taximeter
+# Loading work.taximeter
+# Loading work.taximeter1
+# Loading work.taximeter2
+# Loading work.taximeter3
+# Loading work.taximeter4
+# Loading work.taximeter4_0
+# Loading work.taximeter5
+# Loading work.taximeter4_1
+# Loading work.taximeter4_2
+add wave -position insertpoint sim:/tset_taximeter/*
+run -all
+# End time: 18:04:43 on Dec 11,2023, Elapsed time: 0:00:24
+# Errors: 0, Warnings: 0

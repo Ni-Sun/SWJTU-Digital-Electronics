@@ -1,0 +1,60 @@
+D:/programme/taximeter/taximeter1.v {1 {vlog -work work -stats=none D:/programme/taximeter/taximeter1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module taximeter1
+
+Top level modules:
+	taximeter1
+
+} {} {}} D:/programme/taximeter/taximeter5.v {1 {vlog -work work -stats=none D:/programme/taximeter/taximeter5.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module taximeter5
+
+Top level modules:
+	taximeter5
+
+} {} {}} D:/programme/taximeter/taximeter2.v {1 {vlog -work work -stats=none D:/programme/taximeter/taximeter2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module taximeter2
+
+Top level modules:
+	taximeter2
+
+} {} {}} D:/programme/taximeter/test_taximeter.v {1 {vlog -work work -stats=none D:/programme/taximeter/test_taximeter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tset_taximeter
+
+Top level modules:
+	tset_taximeter
+
+} {} {}} D:/programme/taximeter/taximeter3.v {1 {vlog -work work -stats=none D:/programme/taximeter/taximeter3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module taximeter3
+
+Top level modules:
+	taximeter3
+
+} {} {}} D:/programme/taximeter/taximeter.v {1 {vlog -work work -stats=none D:/programme/taximeter/taximeter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module taximeter
+
+Top level modules:
+	taximeter
+
+} {} {}} D:/programme/taximeter/taximeter0.v {1 {vlog -work work -stats=none D:/programme/taximeter/taximeter0.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module taximeter0
+
+Top level modules:
+	taximeter0
+
+} {} {}} D:/programme/taximeter/taximeter4.v {1 {vlog -work work -stats=none D:/programme/taximeter/taximeter4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module taximeter4
+-- Compiling module taximeter4_0
+-- Compiling module taximeter4_1
+-- Compiling module taximeter4_2
+
+Top level modules:
+	taximeter4
+
+} {} {}}

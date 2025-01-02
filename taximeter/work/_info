@@ -1,0 +1,241 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/programme/Quartus/ny_2566_8
+vtaximeter
+Z0 !s110 1702288998
+!i10b 1
+!s100 ViLoleCL3>Vdm@?AIf4WZ1
+I002R0@[dG;:C?5WR<o9_<3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/programme/taximeter
+w1702287298
+8D:/programme/taximeter/taximeter.v
+FD:/programme/taximeter/taximeter.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1702288997.000000
+!s107 D:/programme/taximeter/taximeter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/programme/taximeter/taximeter.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vtaximeter0
+R0
+!i10b 1
+!s100 ?9bjV:^Hbmg`?U]O5^LlS3
+I=]dezWHi:]PS9gkjn27dZ0
+R1
+R2
+w1702190988
+8D:/programme/taximeter/taximeter0.v
+FD:/programme/taximeter/taximeter0.v
+L0 26
+R3
+r1
+!s85 0
+31
+Z6 !s108 1702288998.000000
+!s107 D:/programme/taximeter/taximeter0.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/programme/taximeter/taximeter0.v|
+!i113 1
+R4
+R5
+vtaximeter1
+R0
+!i10b 1
+!s100 VKnoP8IK@kC[IC975dK^?0
+I3C8=aI[BX<_[ikJAlzITY3
+R1
+R2
+w1702285070
+8D:/programme/taximeter/taximeter1.v
+FD:/programme/taximeter/taximeter1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R6
+!s107 D:/programme/taximeter/taximeter1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/programme/taximeter/taximeter1.v|
+!i113 1
+R4
+R5
+vtaximeter2
+R0
+!i10b 1
+!s100 I:>TWi@GYMeL>UcF;RVUf1
+IgS8`2I_hRS:gNKML<4j^d2
+R1
+R2
+Z7 w1702281184
+8D:/programme/taximeter/taximeter2.v
+FD:/programme/taximeter/taximeter2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R6
+!s107 D:/programme/taximeter/taximeter2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/programme/taximeter/taximeter2.v|
+!i113 1
+R4
+R5
+vtaximeter3
+R0
+!i10b 1
+!s100 mF1_MZQWzZLHYPb@H_07=0
+IUT4FB:GezY^IWN>fdlNfk0
+R1
+R2
+R7
+8D:/programme/taximeter/taximeter3.v
+FD:/programme/taximeter/taximeter3.v
+L0 1
+R3
+r1
+!s85 0
+31
+R6
+!s107 D:/programme/taximeter/taximeter3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/programme/taximeter/taximeter3.v|
+!i113 1
+R4
+R5
+vtaximeter4
+R0
+!i10b 1
+!s100 K_4Ji]YdY57CBnl@Xn<HH0
+Ie6lWY67idUVa=?EUo>X_T0
+R1
+R2
+Z8 w1702288669
+Z9 8D:/programme/taximeter/taximeter4.v
+Z10 FD:/programme/taximeter/taximeter4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R6
+Z11 !s107 D:/programme/taximeter/taximeter4.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|D:/programme/taximeter/taximeter4.v|
+!i113 1
+R4
+R5
+vtaximeter4_0
+R0
+!i10b 1
+!s100 I2g@:2Ng`8z`@`omEPQaM2
+IR8k]B`9Y8dUNO<7BzZaP]0
+R1
+R2
+R8
+R9
+R10
+L0 63
+R3
+r1
+!s85 0
+31
+R6
+R11
+R12
+!i113 1
+R4
+R5
+vtaximeter4_1
+R0
+!i10b 1
+!s100 Y4RWh8PS^g@R0YWLE462K2
+I7J9k<LkZDW[:PYBSX[XlV0
+R1
+R2
+R8
+R9
+R10
+L0 117
+R3
+r1
+!s85 0
+31
+R6
+R11
+R12
+!i113 1
+R4
+R5
+vtaximeter4_2
+R0
+!i10b 1
+!s100 V9n;0lR31moAGH<Qd<ZN<2
+Id876QBjX`zoHGK;7kLNgR3
+R1
+R2
+R8
+R9
+R10
+L0 150
+R3
+r1
+!s85 0
+31
+R6
+R11
+R12
+!i113 1
+R4
+R5
+vtaximeter5
+R0
+!i10b 1
+!s100 P_znaOPa7fNEQjaD5=hfJ1
+I3142_8D@nVioD@9UP]6nC3
+R1
+R2
+w1702119113
+8D:/programme/taximeter/taximeter5.v
+FD:/programme/taximeter/taximeter5.v
+L0 1
+R3
+r1
+!s85 0
+31
+R6
+!s107 D:/programme/taximeter/taximeter5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/programme/taximeter/taximeter5.v|
+!i113 1
+R4
+R5
+vtset_taximeter
+R0
+!i10b 1
+!s100 kE5CC;M`<CzDdSBn?cf=d2
+I?V7@7B=AJ?V]EWV_cWAP51
+R1
+R2
+w1702287269
+8D:/programme/taximeter/test_taximeter.v
+FD:/programme/taximeter/test_taximeter.v
+L0 2
+R3
+r1
+!s85 0
+31
+R6
+!s107 D:/programme/taximeter/test_taximeter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/programme/taximeter/test_taximeter.v|
+!i113 1
+R4
+R5

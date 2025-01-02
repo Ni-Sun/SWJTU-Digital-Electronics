@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Dec 15 16:12:10 2023
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : taximeter
+Top-level Entity Name : taximeter
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 1,016 / 6,272 ( 16 % )
+    Total combinational functions : 1,012 / 6,272 ( 16 % )
+    Dedicated logic registers : 75 / 6,272 ( 1 % )
+Total registers : 75
+Total pins : 75 / 92 ( 82 % )
+Total virtual pins : 0
+Total memory bits : 0 / 276,480 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

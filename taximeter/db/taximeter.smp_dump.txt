@@ -1,0 +1,17 @@
+
+State Machine - |taximeter|taximeter4:i4|taximeter4_2:i4_2|cnt
+Name cnt.011 cnt.010 cnt.000 cnt.001 
+cnt.001 0 0 0 0 
+cnt.000 0 0 1 1 
+cnt.010 0 1 0 1 
+cnt.011 1 0 0 1 
+
+State Machine - |taximeter|taximeter4:i4|taximeter4_1:i4_1|cnt
+Name cnt.000 
+cnt.001 0 
+cnt.000 1 
+
+State Machine - |taximeter|taximeter4:i4|taximeter4_0:i4_0|cnt
+Name cnt.000 
+cnt.001 0 
+cnt.000 1 

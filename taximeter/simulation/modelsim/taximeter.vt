@@ -1,0 +1,48 @@
+`timescale 1 ps/ 1 ps
+module taximeter_vlg_tst();
+// constants                                           
+// general purpose registers
+reg eachvec;
+// test vector input registers
+reg clk;
+reg motor;
+reg [1:0] op;
+// wires                                               
+wire [7:0]  codeout;
+wire [10:0]  cost;
+wire [7:0]  mil;
+wire [7:0]  seg;
+wire [6:0]  timee;
+
+// assign statements (if any)                          
+taximeter i1 (
+// port map - connection between master ports and signals/registers   
+	.clk(clk),
+	.codeout(codeout),
+	.cost(cost),
+	.mil(mil),
+	.motor(motor),
+	.op(op),
+	.seg(seg),
+	.timee(timee)
+);
+initial                                                
+begin                                                  
+// code that executes only once                        
+// insert code here --> begin                          
+                                                       
+// --> end                                             
+$display("Running testbench");                       
+end                                                    
+always                                                 
+// optional sensitivity list                           
+// @(event1 or event2 or .... eventn)                  
+begin                                                  
+// code executes for every event on sensitivity list   
+// insert code here --> begin                          
+                                                       
+@eachvec;                                              
+// --> end                                             
+end                                                    
+endmodule
+
